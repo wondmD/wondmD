@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wondmD
+                                      👋 Hi, I’m Wondmeneh
 - 
 - 👀 I’m interested in Programing and art
 - 🌱 I’m currently learning Cmputer science and engineering
