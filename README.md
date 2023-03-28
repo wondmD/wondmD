@@ -28,8 +28,9 @@
 ---
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wondmD&count_private=true&show_icons=true&include_all_commits=true)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=wondmD&theme=blue&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" width="45%"/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wondmD&show_icons=true&theme=slateorange&hide_border=true&border_radius=10&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&line_height=29.5)
+![Github Status](https://github-readme-streak-stats.herokuapp.com?user=wondmD&theme=slateorange&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j)
+
 ---
 ---
 
