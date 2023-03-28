@@ -1,15 +1,16 @@
-#                                      👋 Hi, I’m Wondmeneh
+#                                      👋 Hi, I’m Wondmeneh Dereje
 
 
 ---
 # About Me:
+
 >:white_check_mark: **Currently learning Cmputer science and engineering**<br>
 >:white_check_mark: **Python Developer**<br>
 >:white_check_mark: **Looking to collaborate on webdevelopment**<br>
 ---
 ## Contact Me:
 [![Linkedin Badge](https://img.shields.io/badge/-WondmD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wondmD/)](https://www.linkedin.com/in/wondmeneh-dereje-033432231/)
-[![Linkedin Badge](https://img.shields.io/badge/-wondmenehdereje@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=/)](https://www.linkedin.com/in/wondmeneh-dereje-033432231/)
+[![Linkedin Badge](https://img.shields.io/badge/-wondmenehdereje@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=/)](https://www.wondmenehdereje@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-WondmD-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/wonaa_D/)](https://t.me/wonaa_D/)
 
 
