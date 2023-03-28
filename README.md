@@ -3,9 +3,9 @@
 
 ---
 # About Me:
-> **Currently learning Cmputer science and engineering**<br>
-> **Python Developer**<br>
-> **Looking to collaborate on webdevelopment**<br>
+>:white_check_mark: **Currently learning Cmputer science and engineering**<br>
+>:white_check_mark: **Python Developer**<br>
+>:white_check_mark: **Looking to collaborate on webdevelopment**<br>
 ---
 ## Contact Me:
 [![Linkedin Badge](https://img.shields.io/badge/-WondmD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wondmD/)](https://www.linkedin.com/in/wondmeneh-dereje-033432231/)
