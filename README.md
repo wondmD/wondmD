@@ -11,7 +11,7 @@
 ## Contact Me:
 [![Linkedin Badge](https://img.shields.io/badge/-WondmD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wondmD/)](https://www.linkedin.com/in/wondmeneh-dereje-033432231/)
 [![Linkedin Badge](https://img.shields.io/badge/-wondmenehdereje@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=/)](https://www.wondmenehdereje@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-WondmD-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/wonaa_D/)](https://t.me/wonaa_D/)
+[![Linkedin Badge](https://img.shields.io/badge/-WondmD-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/wonaa_D/)](https://t.me/wondmenehD/)
 
 
 ---
