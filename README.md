@@ -4,7 +4,7 @@
 ---
 # About Me:
 
->:white_check_mark: **Currently learning Cmputer science and engineering**<br>
+>:white_check_mark: **Currently learning Computer science and engineering**<br>
 >:white_check_mark: **Python Developer**<br>
 >:white_check_mark: **Looking to collaborate on webdevelopment**<br>
 ---
